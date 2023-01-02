@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\ASCII\bin\Debug\net6.0\ASCII.exe
+C:\Users\borga\Desktop\C#\ASCII\bin\Debug\net6.0\ASCII.deps.json
+C:\Users\borga\Desktop\C#\ASCII\bin\Debug\net6.0\ASCII.runtimeconfig.json
+C:\Users\borga\Desktop\C#\ASCII\bin\Debug\net6.0\ASCII.dll
+C:\Users\borga\Desktop\C#\ASCII\bin\Debug\net6.0\ASCII.pdb
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.dll
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\refint\ASCII.dll
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.pdb
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ASCII.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\ASCII\obj\Debug\net6.0\ref\ASCII.dll
