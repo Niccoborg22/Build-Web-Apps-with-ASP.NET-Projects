@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Mad Lips\bin\Debug\net6.0\Mad Lips.exe
+C:\Users\borga\Desktop\C#\Mad Lips\bin\Debug\net6.0\Mad Lips.deps.json
+C:\Users\borga\Desktop\C#\Mad Lips\bin\Debug\net6.0\Mad Lips.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Mad Lips\bin\Debug\net6.0\Mad Lips.dll
+C:\Users\borga\Desktop\C#\Mad Lips\bin\Debug\net6.0\Mad Lips.pdb
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.dll
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\refint\Mad Lips.dll
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.pdb
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\Mad Lips.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Mad Lips\obj\Debug\net6.0\ref\Mad Lips.dll
