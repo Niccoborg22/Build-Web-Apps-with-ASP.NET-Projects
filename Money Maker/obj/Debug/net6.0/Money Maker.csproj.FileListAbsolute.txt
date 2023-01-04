@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Money Maker\bin\Debug\net6.0\Money Maker.exe
+C:\Users\borga\Desktop\C#\Money Maker\bin\Debug\net6.0\Money Maker.deps.json
+C:\Users\borga\Desktop\C#\Money Maker\bin\Debug\net6.0\Money Maker.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Money Maker\bin\Debug\net6.0\Money Maker.dll
+C:\Users\borga\Desktop\C#\Money Maker\bin\Debug\net6.0\Money Maker.pdb
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.dll
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\refint\Money Maker.dll
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.pdb
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\Money Maker.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Money Maker\obj\Debug\net6.0\ref\Money Maker.dll
