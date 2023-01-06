@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Your own adventure\bin\Debug\net6.0\Your own adventure.exe
+C:\Users\borga\Desktop\C#\Your own adventure\bin\Debug\net6.0\Your own adventure.deps.json
+C:\Users\borga\Desktop\C#\Your own adventure\bin\Debug\net6.0\Your own adventure.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Your own adventure\bin\Debug\net6.0\Your own adventure.dll
+C:\Users\borga\Desktop\C#\Your own adventure\bin\Debug\net6.0\Your own adventure.pdb
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.dll
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\refint\Your own adventure.dll
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.pdb
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\Your own adventure.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Your own adventure\obj\Debug\net6.0\ref\Your own adventure.dll
