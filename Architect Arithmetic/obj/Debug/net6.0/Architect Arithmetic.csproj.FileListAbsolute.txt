@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Architect Arithmetic\bin\Debug\net6.0\Architect Arithmetic.exe
+C:\Users\borga\Desktop\C#\Architect Arithmetic\bin\Debug\net6.0\Architect Arithmetic.deps.json
+C:\Users\borga\Desktop\C#\Architect Arithmetic\bin\Debug\net6.0\Architect Arithmetic.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Architect Arithmetic\bin\Debug\net6.0\Architect Arithmetic.dll
+C:\Users\borga\Desktop\C#\Architect Arithmetic\bin\Debug\net6.0\Architect Arithmetic.pdb
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.dll
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\refint\Architect Arithmetic.dll
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.pdb
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\Architect Arithmetic.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Architect Arithmetic\obj\Debug\net6.0\ref\Architect Arithmetic.dll
