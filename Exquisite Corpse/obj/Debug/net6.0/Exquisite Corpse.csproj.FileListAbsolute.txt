@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Exquisite Corpse\bin\Debug\net6.0\Exquisite Corpse.exe
+C:\Users\borga\Desktop\C#\Exquisite Corpse\bin\Debug\net6.0\Exquisite Corpse.deps.json
+C:\Users\borga\Desktop\C#\Exquisite Corpse\bin\Debug\net6.0\Exquisite Corpse.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Exquisite Corpse\bin\Debug\net6.0\Exquisite Corpse.dll
+C:\Users\borga\Desktop\C#\Exquisite Corpse\bin\Debug\net6.0\Exquisite Corpse.pdb
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.dll
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\refint\Exquisite Corpse.dll
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.pdb
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\Exquisite Corpse.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Exquisite Corpse\obj\Debug\net6.0\ref\Exquisite Corpse.dll
