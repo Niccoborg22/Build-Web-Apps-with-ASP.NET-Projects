@@ -44,6 +44,7 @@
         }
     }
 
+    // Decrypt method to decrypt a word encrypted with the Ceasar Cipher methodology
     static string Decrypt(string word)
     {
         char[] alphabetDecrypt = new char[] {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
