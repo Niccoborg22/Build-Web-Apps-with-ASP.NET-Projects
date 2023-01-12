@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\True or False\bin\Debug\net6.0\True or False.exe
+C:\Users\borga\Desktop\C#\True or False\bin\Debug\net6.0\True or False.deps.json
+C:\Users\borga\Desktop\C#\True or False\bin\Debug\net6.0\True or False.runtimeconfig.json
+C:\Users\borga\Desktop\C#\True or False\bin\Debug\net6.0\True or False.dll
+C:\Users\borga\Desktop\C#\True or False\bin\Debug\net6.0\True or False.pdb
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.dll
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\refint\True or False.dll
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.pdb
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\True or False.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\True or False\obj\Debug\net6.0\ref\True or False.dll
