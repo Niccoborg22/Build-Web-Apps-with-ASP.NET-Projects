@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Ceasar Cipher\bin\Debug\net6.0\Ceasar Cipher.exe
+C:\Users\borga\Desktop\C#\Ceasar Cipher\bin\Debug\net6.0\Ceasar Cipher.deps.json
+C:\Users\borga\Desktop\C#\Ceasar Cipher\bin\Debug\net6.0\Ceasar Cipher.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Ceasar Cipher\bin\Debug\net6.0\Ceasar Cipher.dll
+C:\Users\borga\Desktop\C#\Ceasar Cipher\bin\Debug\net6.0\Ceasar Cipher.pdb
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.dll
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\refint\Ceasar Cipher.dll
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.pdb
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\Ceasar Cipher.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Ceasar Cipher\obj\Debug\net6.0\ref\Ceasar Cipher.dll
