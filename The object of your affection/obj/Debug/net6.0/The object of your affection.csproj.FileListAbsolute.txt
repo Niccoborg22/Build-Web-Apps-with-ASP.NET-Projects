@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\The object of your affection\bin\Debug\net6.0\The object of your affection.exe
+C:\Users\borga\Desktop\C#\The object of your affection\bin\Debug\net6.0\The object of your affection.deps.json
+C:\Users\borga\Desktop\C#\The object of your affection\bin\Debug\net6.0\The object of your affection.runtimeconfig.json
+C:\Users\borga\Desktop\C#\The object of your affection\bin\Debug\net6.0\The object of your affection.dll
+C:\Users\borga\Desktop\C#\The object of your affection\bin\Debug\net6.0\The object of your affection.pdb
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.dll
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\refint\The object of your affection.dll
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.pdb
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\The object of your affection.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\The object of your affection\obj\Debug\net6.0\ref\The object of your affection.dll
