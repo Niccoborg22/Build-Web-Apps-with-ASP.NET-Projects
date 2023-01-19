@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Supernatural inheritance\bin\Debug\net6.0\Supernatural inheritance.exe
+C:\Users\borga\Desktop\C#\Supernatural inheritance\bin\Debug\net6.0\Supernatural inheritance.deps.json
+C:\Users\borga\Desktop\C#\Supernatural inheritance\bin\Debug\net6.0\Supernatural inheritance.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Supernatural inheritance\bin\Debug\net6.0\Supernatural inheritance.dll
+C:\Users\borga\Desktop\C#\Supernatural inheritance\bin\Debug\net6.0\Supernatural inheritance.pdb
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.dll
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\refint\Supernatural inheritance.dll
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.pdb
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\Supernatural inheritance.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Supernatural inheritance\obj\Debug\net6.0\ref\Supernatural inheritance.dll
