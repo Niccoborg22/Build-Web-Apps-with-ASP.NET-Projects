@@ -8,5 +8,11 @@
         tdl.Add("Party");
 
         PasswordManager pm = new PasswordManager("iluvpie", true);
+        pm.ChangePassword("iluvpie", "ciaociaociao");
+        pm.ChangePassword("ABCDEFGHI", "ciaociaociao");
+        
+
+        tdl.Display();
+        pm.Display();
     }
 }

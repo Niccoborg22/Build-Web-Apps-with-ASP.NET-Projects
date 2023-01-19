@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\App interfaces\bin\Debug\net6.0\App interfaces.exe
+C:\Users\borga\Desktop\C#\App interfaces\bin\Debug\net6.0\App interfaces.deps.json
+C:\Users\borga\Desktop\C#\App interfaces\bin\Debug\net6.0\App interfaces.runtimeconfig.json
+C:\Users\borga\Desktop\C#\App interfaces\bin\Debug\net6.0\App interfaces.dll
+C:\Users\borga\Desktop\C#\App interfaces\bin\Debug\net6.0\App interfaces.pdb
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.dll
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\refint\App interfaces.dll
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.pdb
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\App interfaces.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\App interfaces\obj\Debug\net6.0\ref\App interfaces.dll
