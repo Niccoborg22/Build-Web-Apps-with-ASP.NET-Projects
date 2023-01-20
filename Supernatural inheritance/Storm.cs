@@ -23,11 +23,11 @@ class Storm
     {
         if(IsStrong == true)
         {
-            return $"{Caster} cast a strong {Essence}";
+            return $"{Caster} cast a strong {Essence} storm";
         }
         else
         {
-            return $"{Caster} cast a weak {Essence}";
+            return $"{Caster} cast a weak {Essence} storm";
         }
     }
 }
