@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Rover control center\bin\Debug\net6.0\Rover control center.exe
+C:\Users\borga\Desktop\C#\Rover control center\bin\Debug\net6.0\Rover control center.deps.json
+C:\Users\borga\Desktop\C#\Rover control center\bin\Debug\net6.0\Rover control center.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Rover control center\bin\Debug\net6.0\Rover control center.dll
+C:\Users\borga\Desktop\C#\Rover control center\bin\Debug\net6.0\Rover control center.pdb
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.dll
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\refint\Rover control center.dll
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.pdb
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\Rover control center.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Rover control center\obj\Debug\net6.0\ref\Rover control center.dll

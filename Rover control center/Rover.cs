@@ -1,4 +1,4 @@
-class Rover
+class Rover : IDirectable
 {
     public string Alias
     { get; private set; }
@@ -24,6 +24,6 @@ class Rover
 
     public virtual string Collect()
     {
-        
+        return "Rover is collecting rocks!";
     }
 }
