@@ -1,0 +1,15 @@
+C:\Users\borga\Desktop\C#\Programming languages\bin\Debug\net6.0\Programming languages.exe
+C:\Users\borga\Desktop\C#\Programming languages\bin\Debug\net6.0\Programming languages.deps.json
+C:\Users\borga\Desktop\C#\Programming languages\bin\Debug\net6.0\Programming languages.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Programming languages\bin\Debug\net6.0\Programming languages.dll
+C:\Users\borga\Desktop\C#\Programming languages\bin\Debug\net6.0\Programming languages.pdb
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.dll
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\refint\Programming languages.dll
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.pdb
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\Programming languages.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Programming languages\obj\Debug\net6.0\ref\Programming languages.dll
