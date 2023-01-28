@@ -1,0 +1,120 @@
+Year	Name	Chief developer, company	Predecessor(s)
+1990	AMOS BASIC	François Lionet, Constantin Sotiropoulos	STOS BASIC
+1990	AMPL	Robert Fourer, David Gay, Brian Kernighanat (Bell Laboratories)	none
+1990	Object Oberon	H Mössenböck, J Templ, R Griesemer	Oberon
+1990	J	Kenneth E. Iverson, Roger Huiat (Iverson Software)	APL,FP
+1990	Haskell	multiple	Miranda
+1990	EuLisp	multiple	Common Lisp,Scheme
+1990	Z Shell(zsh)	Paul Falstad (Princeton University)	ksh
+1991	GNU E	David J. DeWitt, Michael J. Carey	C++
+1991	Oberon-2	Hanspeter Mössenböck (Wirth)	Object Oberon
+1991	Oz	Gert Smolka and his students	Prolog
+1991	Q	Albert Gräf	none
+1991	Visual Basic	Alan Cooper (sold to Microsoft)	QuickBASIC
+1992	Borland Pascal	multiple	Turbo Pascal OOP
+1992	Dylan	multiple (Apple Computer Inc.)	Common Lisp,Scheme
+1992	S-Lang	John E. Davis	PostScript
+1993	Self(implementation)	Sun Microsystems Inc.	Smalltalk
+1993	Amiga E	Wouter van Oortmerssen	DEX,C,Modula-2
+1993	Brainf*ck	Urban Müller	P′′
+1993	LiveCode Transcript	multiple	HyperTalk
+1993	AppleScript	Apple Computer Inc.	HyperTalk
+1993	K	Arthur Whitney	APL,Lisp
+1993	Lua	Roberto Ierusalimschy, et al. (Tecgraf, PUC-Rio)	Scheme,SNOBOL,Modula,CLU,C++
+1993	R	Robert Gentleman, Ross Ihaka	S
+1993	ZPL	Chamberlain, et al. (University of Washington)	C
+1993	NewtonScript	Walter Smith	Self,Dylan
+1993	Euphoria	Robert Craig	SNOBOL,AWK,ABC,Icon,Python
+1994	Claire	Yves Caseau	Smalltalk,SETL,OPS5,Lisp,ML,C,LORE,LAURE
+1994	ANSI Common Lisp	multiple	Common Lisp
+1994	RAPID	ABB Group	ARLA
+1994	Pike	Fredrik Hübinette, et al. (Linköping University)	LPC,C,µLPC
+1994	ANS Forth	Elizabeth Rather, et al.	Forth
+1995	Ada 95	S. Tucker Taft, et al. (Intermetrics, Inc.)	Ada 83
+1995	Borland Delphi	Anders Hejlsbergat (Borland)	Borland Pascal
+1995	ColdFusion (CFML)	Allaire	none
+1995	Java	James Gosling (Sun Microsystems)	C,Simula 67,C++,Smalltalk,Ada 83,Objective-C,Mesa
+1995	LiveScript	Brendan Eichat (Netscape)	Self,C,Scheme
+1995	Mercury	Zoltan Somogyiat (University of Melbourne)	Prolog,Hope,Haskell
+1995	PHP	Rasmus Lerdorf	Perl
+1995	Ruby	Yukihiro Matsumoto	Smalltalk,Perl
+1995	JavaScript	Brendan Eichat (Netscape)	LiveScript
+1995	Racket	Matthew Flatt (Rice University)	Scheme,Lisp
+1996	Curl	David Kranz, Steve Ward, Chris Terman (MIT)	Lisp,C++,Tcl/Tk,TeX,HTML
+1996	Lasso	Blue World Communications Inc.	none
+1996	Perl Data Language(PDL)	Karl Glazebrook, Jarle Brinchmann, Tuomas Lukka, Christian Soeller	APL,Perl
+1996	VBScript	Microsoft	Visual Basic
+1996	OCaml	INRIA	Caml Light,Standard ML
+1996	NetRexx	Mike Cowlishaw	REXX
+1997	Component Pascal	Oberon microsystems, Inc	Oberon-2
+1997	E	Mark S. Miller	Joule,Original-E
+1997	Pico	Free University of Brussels	Scheme
+1997	Squeak	Alan Kay, et al. (Apple Computer Inc.)	Smalltalk-80,Self
+1997	ECMAScript	ECMATC39-TG1	JavaScript
+1997	F-Script	Philippe Mougin	Smalltalk,APL,Objective-C
+1997	ISLISP	ISO Standard ISLISP	Common Lisp
+1997	Tea	Jorge Nunes	Java,Scheme,Tcl
+1997	REBOL	Carl Sassenrath (Rebol Technologies)	Self,Forth,Lisp,Logo
+1998	Logtalk	Paulo Moura (University of Coimbra)	Prolog
+1998	ActionScript	Gary Grossman	ECMAScript
+1998	Standard C++	ANSI/ISO Standard C++	C++,Standard C,C
+1998	M2001	Ronald E. Prather (Trinity University, Texas)	none
+1998	Pikt	Robert Osterlund (University of Chicago)	AWK,Perl,Unix shell
+1998	PureBasic	Frederic Laboureur (Fantaisie Software)	none
+1998	UnrealScript	Tim Sweeney (Epic Games)	C++,Java
+1998	XSLT(+XPath)	James Clark (W3C)	DSSSL
+1998	Xojo(REALbasic at the time)	Andrew Barry (Xojo, Inc.)	Visual Basic
+1999	C99	C99 ISO/IEC 9899:1999	none
+1999	Game Maker Language(GML)	Mark Overmars	Game Maker
+1999	Harbour	Antonio Linares	dBase
+2000	Join Java	G Stewart von Itzstein	Java
+2000	DarkBasic	The Game Creators	none
+2000	C#	Anders Hejlsberg (Microsoft, ECMA)	C,C++,Java,Delphi,Modula-2
+2001	Joy	Manfred von Thun	FP,Forth
+2001	AspectJ	Gregor Kiczales (Xerox PARC)	Java,Common Lisp
+2001	D	Walter Bright (Digital Mars)	C,C++,C#,Java
+2001	Processing	Casey Reas, Benjamin Fry	Java,C,C++
+2001	Visual Basic .NET	Microsoft	Visual Basic
+2001	GDScript(GDS)	OKAM Studio	Godot
+2001	Shakespeare Programming Language	Jon Åslund, Karl Hasselström	none
+2002	Io	Steve Dekorte	Self,NewtonScript,Lua
+2002	Gosu	Guidewire Software	GScript
+2002	Scratch	Mitchel Resnick, John Maloney, Natalie Rusk, Evelyn Eastmond, Tammy Stern, Amon Millner, Jay Silver, Brian Silverman	Logo,Smalltalk,Squeak,E-Toys,HyperCard,AgentSheets,StarLogo,Tweak,BYOB
+2003	Nemerle	University of Wrocław	C#,ML,MetaHaskell
+2003	Factor	Slava Pestov	Joy,Forth,Lisp
+2003	Scala	Martin Odersky	Smalltalk,Java,Haskell,Standard ML,OCaml
+2003	C++03	C++ ISO/IEC 14882:2003	C++,Standard C,C
+2003	Squirrel	Alberto Demichelis	Lua
+2003	Boo	Rodrigo B. de Oliveira	Python,C#
+2004	Subtext	Jonathan Edwards	none
+2004	Alma-0	Krzysztof Apt (Centrum Wiskunde & Informatica)	none
+2004	FreeBASIC	Andre Victor	QBasic
+2004	Groovy	James Strachan	Java
+2004	Little b	Aneil Mallavarapu (Harvard Medical School, Department of Systems Biology)	Lisp
+2005	Fantom	Brian Frank, Andy Frank	C#,Scala,Ruby,Erlang
+2005	F#	Don Syme (Microsoft Research)	OCaml,C#,Haskell
+2005	Haxe	Nicolas Cannasse	ActionScript,OCaml,Java
+2005	Oxygene	RemObjects Software	Object Pascal,C#
+2005	Seed7	Thomas Mertes	none
+2006	Cobra	ChuckEsterbrook	Python,C#,Eiffel,Objective-C
+2006	Windows PowerShell	Microsoft	C#,ksh,Perl,CL,DCL,SQL
+2006	OptimJ	Ateji	Java
+2006	Fortress	Guy Steele	Scala,ML,Haskell
+2006	Vala	GNOME	C#
+2007	Ada 2005	Ada Rapporteur Group	Ada 95
+2007	Agda	Ulf Norell	Coq,Epigram,Haskell
+2007	QB64	Galleon, QB64Team	QBasic
+2007	Clojure	Rich Hickey	Lisp,ML,Haskell,Erlang
+2007	LOLCODE	Adam Lindsay	none
+2007	Oberon-07	Wirth	Oberon
+2007	Swift (parallel scripting language)	University of Chicago (Argonne National Laboratory)	none
+2008	Nim	Andreas Rumpf	Python,Lisp,Object Pascal
+2008	Genie	Jamie McCracken	Python,Boo,D,Object Pascal
+2008	Pure	Albert Gräf	Q
+2009	Chapel	Brad Chamberlain (CrayInc.)	HPF,ZPL
+2009	Go	Google	C,Oberon,Limbo,Smalltalk
+2009	CoffeeScript	Jeremy Ashkenas	JavaScript,Ruby,Python,Haskell
+2009	Idris	Edwin Brady	Haskell,Agda,Coq
+2009	Parasail	S. Tucker Taft (AdaCore)	Modula,Ada,Pascal,ML
+2009	Whiley	David J. Pearce	Java,C,Python
+2009	Dafny	K. Rustan M. Leino	Java,Spec#
