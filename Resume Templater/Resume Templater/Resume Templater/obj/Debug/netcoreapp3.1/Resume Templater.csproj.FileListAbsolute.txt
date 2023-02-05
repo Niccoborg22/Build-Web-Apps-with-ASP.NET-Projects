@@ -1,0 +1,38 @@
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.exe
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.deps.json
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.runtimeconfig.json
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.runtimeconfig.dev.json
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.dll
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.pdb
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.Views.dll
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\bin\Debug\netcoreapp3.1\Resume Templater.Views.pdb
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.RazorAssemblyInfo.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.RazorAssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\staticwebassets\Resume Templater.StaticWebAssets.Manifest.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\staticwebassets\Resume Templater.StaticWebAssets.xml
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\scopedcss\bundle\Resume Templater.styles.css
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.TagHelpers.input.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.TagHelpers.output.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.RazorCoreGenerate.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.RazorTargetAssemblyInfo.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.RazorTargetAssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.Views.pdb
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.dll
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.pdb
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.genruntimeconfig.cache
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.csproj.CopyComplete
