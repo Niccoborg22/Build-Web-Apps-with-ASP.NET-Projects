@@ -1,4 +1,15 @@
 ﻿@page
-@model Resume_Templater.Pages.Shared.AboutMeModel
+@model AboutMeModel
 @{
 }
+
+<section class="my-5">
+    <h1 class="text-center my-5">About Me</h1>
+    <p class="w-50 mx-auto text-center">
+        @Model.Description
+    </p>
+    <hr width="50%">
+    <p class="w-50 mx-auto text-center">
+        If you'd like to contact me, feel free to reach me at: <a href="mailto:@Model.Email">@Model.Email</a>
+    </p>
+    </div>

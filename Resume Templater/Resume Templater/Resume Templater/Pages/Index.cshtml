@@ -1,10 +1,40 @@
 ﻿@page
 @model IndexModel
+
 @{
-    ViewData["Title"] = "Home page";
+    @ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<div class="jumbotron jumbotron-fluid jumbotron-container resume-jumbotron text-white">
+    <div class="container-fluid jumbotron-content">
+        <p class="text-center jumbotron-header mb-4">Hey there, I'm @Model.FullName!</p>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="resume-content">
+        <h4 class="general-header mb-3">Summary:</h4>
+        <p class="general-content mb-3">I'm an enthusiastic software engineer with @Model.YearsOfExperience+ years of experience participating in the complete lifecyclye of successfully launched applications. I am skilled in developing business plans, requirements specifications, user documentation, and architectural systems research. Strong written and verbal communications.</p>
+    </div>
+
+    <div class="resume-content">
+        <h4 class="general-header mb-3">Languages:</h4>
+        <ul class="list-group general-content">
+            @foreach (string language in Model.Languages)
+            {
+                <li class="list-item" style="width: 18rem;">
+                    @language
+                </li>
+            }
+        </ul>
+    </div>
+
+    <div class="resume-content">
+        <h4 class="general-header mb-3">Contact</h4>
+        <p class="general-content">
+            <!-- Render partial for Link below -->
+        </p>
+    </div>
 </div>

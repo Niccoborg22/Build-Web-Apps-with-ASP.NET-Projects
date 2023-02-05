@@ -1,4 +1,40 @@
 ﻿@page
-@model Resume_Templater.Pages.Shared.ProjectsModel
+@model ProjectsModel
+
 @{
+    @ViewData["Title"] = "Projects";
 }
+
+<div class="jumbotron jumbotron-fluid jumbotron-container text-white project-jumbotron">
+    <div class="container-fluid jumbotron-content">
+        <p class="text-center mb-4 jumbotron-header">Projects</p>
+    </div>
+</div>
+
+
+<div class="container">
+    @foreach (Project project in Model.Projects)
+    {
+        @if(project.Year >= 2017)
+                {
+    <div class="project-container">
+        <h4 class="project-title general-header">
+            @project.Title
+        </h4>
+        <p class="project-year general-header">
+            @project.Year
+        </p>
+        <p class="project-description general-content">
+            @project.Description
+        </p>
+    </div>
+                }
+    }
+
+    <br>
+    <h4 class="general-header">Portfolio</h4>
+    <p class="general-content">
+        <!-- Render partial for Link below -->
+    </p>
+    <br>
+</div>

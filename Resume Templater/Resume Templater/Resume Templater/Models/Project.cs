@@ -1,11 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace Resume_Templater.Models
+namespace ResumeTemplater.Models
 {
-    public class Project
-    {
-    }
+	public class Project
+	{
+		public string Title { get; set; }
+		public string Description { get; set; }
+		public int Year { get; set; }
+
+		public List<string> Technologies { get; set; }
+	}
 }

@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Resume_Templater.Models
+namespace ResumeTemplater.Models
 {
-    public class Link
-    {
-    }
+	// Additional Challenge
+	public class Link
+	{
+
+	}
 }
+
