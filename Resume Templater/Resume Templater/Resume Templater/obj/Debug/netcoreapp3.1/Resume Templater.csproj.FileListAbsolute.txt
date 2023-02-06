@@ -36,3 +36,6 @@ C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj
 C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.pdb
 C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.genruntimeconfig.cache
 C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Resume Templater.csproj.CopyComplete
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\AboutMe.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\Projects.cshtml.g.cs
+C:\Users\borga\Desktop\C#\Resume Templater\Resume Templater\Resume Templater\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Links.cshtml.g.cs

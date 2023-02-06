@@ -15,26 +15,24 @@
 <div class="container">
     @foreach (Project project in Model.Projects)
     {
-        @if(project.Year >= 2017)
+        @if(project.Year > 2016)
                 {
-    <div class="project-container">
-        <h4 class="project-title general-header">
-            @project.Title
-        </h4>
-        <p class="project-year general-header">
-            @project.Year
-        </p>
-        <p class="project-description general-content">
-            @project.Description
-        </p>
-    </div>
+                    <div class="project-container">
+                        <h4 class="project-title general-header">
+                            @project.Title
+                        </h4>
+                        <p class="project-year general-header">
+                            @project.Year
+                        </p>
+                        <p class="project-description general-content">
+                            @project.Description
+                        </p>
+                    </div>
                 }
     }
 
     <br>
     <h4 class="general-header">Portfolio</h4>
-    <p class="general-content">
-        <!-- Render partial for Link below -->
-    </p>
+    <p class="general-content">For more informatoin regardin my experience please refer to my <partial name="_Links" for="@Model.GithubUsername"/></p>
     <br>
 </div>
