@@ -1,0 +1,8 @@
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.csproj.AssemblyReference.cache
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.AssemblyInfoInputs.cache
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.AssemblyInfo.cs
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.csproj.CoreCompileInputs.cache
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.RazorAssemblyInfo.cache
+C:\Users\borga\Desktop\C#\Grocer.ly\Grocer.ly\Grocer.ly\obj\Debug\net5.0\Grocer.ly.RazorAssemblyInfo.cs
